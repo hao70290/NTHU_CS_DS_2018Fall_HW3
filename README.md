@@ -36,4 +36,4 @@ Level-order traversal after inverting
 NTHU, DS, Data Structure, Homework, Tree.
 
 ## Reference
-http://140.114.86.238/problem/12021/
+http://140.114.86.238/problem/12052/
